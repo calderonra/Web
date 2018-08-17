@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hola mundo</title>
+    </head>
+    <body>
+        <h1>
+        Autobiografia de Raul 	
+        </h1>
+        <h2>Capitulo 1: infancia</h2>
+        <p>
+        Mi nombre es <b>Raul Fabricio Calderon Jimenez</b>, naci un 13 de octubre de 1998 en San Salvador. considero que soy una persona un poco timida que de vez en cuando soy un poco gracioso, tambien considero que soy una persona que le gusta ser puntual y tener todo planeado, la mayor parte de mi infancia la pase con mis abuelos, porque mis papas trabajan y no querian que me quedara solo en la casa, asi que me llevaban donde mis abuelos para que me cuidaran en el dia y ya al final de la tarde me iban a recoger donde ellos, la verdad siento que tuve un abuena infancia, disfrute a mis abuleos salia con ellos y tambien juagaba, lo que mas me gustaba era ver tv y ver las caricaturas viejas como los looney tunes y la pantera rosa, luego mis papas me compraron mi primera consola que fue un playstation, y ahi pasaba mis dias,luego en timepos de colegio era bien parecido, llegaba donde mis abuelos y ahi hacia tareas y veia tv y hasta en la noche jugaba un rato videojuegos 
+        </p>
+        <h3>Capitulo 2:Familia y amigos </h3>
+        <p>
+
+            
+            Este un temas del que no me gusta mucho hablar, pero aqui va un poco, es cierto eso que dicen que en el colegio conoces a la gente que posiblemente sea amigo tuyo para toda la vida y creo que de momento los mejores amigo que tengo los he conocido en el colegio, me gusta mantener esas amistades
+            la verdad me siento bien con mi grupo de amigos, me siento querido y creo que eso es lo que importa. 
+        </p>
+        <h3>
+            Capitulo 3: deportes y pasatiempos
+        </h3>
+        <p> 
+            En mis dias de colegio solia practicar baloncesto desde 3 grado hasta segundo año, fue un deporte que la verdad me gusta mucho y sentia que no era malo en el, luego tambien practique football, natacion, hasta tenis
+            siento que me gustaba practicar deportes en general, pero ultimamente ya tengo tiempo que no practico
+        </p>
+        <h4>
+            Capitulo 4: sueños 
+        </h4>
+        <p>
+            Creo que una mejor manera de representar mis sueños es en una lista, donde creo que tengo algunos sueños raros y medio tontos pero aqui los pondre de todas formas 
+
+        </p>
+        <ul>
+            <li> Me gustaria graduarme y ser un ingeniero de la uca </li>
+            <li> Me gustaria hacer estudios superiores en otro pais </li>
+            <li> vivir en otro pais </li>
+            <li>tener una familia</li>
+            <li>trabajar en el desarrollo de un videojuego grande</li>
+            
+        </ul>
+
+
+    </body>
+</html> 
